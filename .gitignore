@@ -4,3 +4,5 @@ __pycache__/
 .ipynb_checkpoints/
 data/DataEx
 data/MANIP180507
+scripts_hidden/
+
